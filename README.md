@@ -8,15 +8,15 @@ For a detailed description of our model, please see the paper "T100: A modern cl
 ## Code
 The following code can be executed on Google Colab.
 
-* T100_SVM_LR_ISS2022_MLC_CrossPredictions_ModelNB**.ipynb
+* T100_SVM_LR_ISS2022_MLC_CrossPredictions_ModelNB.ipynb
 
 ## BIBTEX
 @inproceedings{siino2022T100,
   title={T100: A modern classic ensemble to profile irony and stereotype spreaders},
   author={Siino, Marco and Ilenia, Tinnirello and La Cascia, Marco},
-  booktitle={PAN 2021 Profiling Hate Speech Spreaders on Twitter@ CLEF},
-  volume={2936},
-  pages={2126--2136},
+  booktitle={CEUR Workshop Proceedings},
+  volume={3180},
+  pages={2666-2674},
   year={2022},
   organization={CEUR}
 }
