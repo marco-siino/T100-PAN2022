@@ -13,7 +13,7 @@ The following code can be executed on Google Colab.
 ## BIBTEX
 @inproceedings{siino2022T100,
   title={T100: A modern classic ensemble to profile irony and stereotype spreaders},
-  author={Siino, Marco and Ilenia, Tinnirello and La Cascia, Marco},
+  author={Siino, Marco and Tinnirello, Ilenia and La Cascia, Marco},
   booktitle={CEUR Workshop Proceedings},
   volume={3180},
   pages={2666-2674},
